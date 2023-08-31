@@ -109,13 +109,17 @@
 .join-span{
 
 }
+.end-section{
+   position: relative;
+    bottom: 0px;
+}
+
 .end-perent{
     color: aliceblue;
     font-size: 7px;
     font-family: 'Poppins';
     letter-spacing: 0.8px;
-    position: relative;
-    bottom: 0px;
+    
 
 }
 .end-span{
